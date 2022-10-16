@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(108, 195, 108);
+    background-color: rgb(143, 234, 143);
 }
 div {
     padding: 50px;
@@ -19,7 +19,7 @@ h1{
 }
 
 #rollButton {
-    background-color: orangered;
+    background-color: green;
     font-size: 40px;
     border-radius: 10px;
     border-inline: none;
