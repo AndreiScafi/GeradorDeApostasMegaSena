@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(108, 195, 108);
+}
+div {
+    padding: 50px;
+    border-inline-style: solid;
+    border-radius: 15px;
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(43, 53, 114);
+}
+
+h1{
+    color:white;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+#rollButton {
+    background-color: rgb(218, 211, 18);
+    font-size: 40px;
+    border-radius: 10px;
+    border-inline: none;
+    color:rgb(255, 255, 255);
+    padding: 15px;
+}
+
+
+
+label {
+    font-size:35px;
+    font-weight: bolder;
+    color: white;
+    padding: 15px;
+}
