@@ -18,7 +18,7 @@ h1{
     font-size: 3em;
 }
 
-#rollButton {
+#rollButton, #rollButton1 {
     background-color: green;
     font-size: 40px;
     border-radius: 10px;
