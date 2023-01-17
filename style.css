@@ -19,7 +19,7 @@ h1{
 }
 
 #rollButton, #rollButton1 {
-    background-color: green;
+    background-color: rgb(27, 163, 27);
     font-size: 40px;
     border-radius: 10px;
     border-inline: none;
